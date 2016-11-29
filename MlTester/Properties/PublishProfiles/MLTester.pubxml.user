@@ -1,0 +1,113 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <LastUsedBuildConfiguration>Debug</LastUsedBuildConfiguration>
+    <LastUsedPlatform>Any CPU</LastUsedPlatform>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/IKVM.AWT.WinForms.dll">
+      <publishTime>10/14/2016 02:12:46</publishTime>
+    </File>
+    <File Include="bin/IKVM.OpenJDK.Beans.dll">
+      <publishTime>10/14/2016 02:12:46</publishTime>
+    </File>
+    <File Include="bin/IKVM.OpenJDK.Charsets.dll">
+      <publishTime>10/14/2016 02:12:46</publishTime>
+    </File>
+    <File Include="bin/IKVM.OpenJDK.Corba.dll">
+      <publishTime>10/14/2016 02:12:46</publishTime>
+    </File>
+    <File Include="bin/IKVM.OpenJDK.Core.dll">
+      <publishTime>10/14/2016 02:12:46</publishTime>
+    </File>
+    <File Include="bin/IKVM.OpenJDK.Jdbc.dll">
+      <publishTime>10/14/2016 02:12:46</publishTime>
+    </File>
+    <File Include="bin/IKVM.OpenJDK.Management.dll">
+      <publishTime>10/14/2016 02:12:46</publishTime>
+    </File>
+    <File Include="bin/IKVM.OpenJDK.Media.dll">
+      <publishTime>10/14/2016 02:12:46</publishTime>
+    </File>
+    <File Include="bin/IKVM.OpenJDK.Misc.dll">
+      <publishTime>10/14/2016 02:12:46</publishTime>
+    </File>
+    <File Include="bin/IKVM.OpenJDK.Naming.dll">
+      <publishTime>10/14/2016 02:12:46</publishTime>
+    </File>
+    <File Include="bin/IKVM.OpenJDK.Remoting.dll">
+      <publishTime>10/14/2016 02:12:46</publishTime>
+    </File>
+    <File Include="bin/IKVM.OpenJDK.Security.dll">
+      <publishTime>10/14/2016 02:12:46</publishTime>
+    </File>
+    <File Include="bin/IKVM.OpenJDK.SwingAWT.dll">
+      <publishTime>10/14/2016 02:12:46</publishTime>
+    </File>
+    <File Include="bin/IKVM.OpenJDK.Text.dll">
+      <publishTime>10/14/2016 02:12:46</publishTime>
+    </File>
+    <File Include="bin/IKVM.OpenJDK.Tools.dll">
+      <publishTime>10/14/2016 02:12:46</publishTime>
+    </File>
+    <File Include="bin/IKVM.OpenJDK.Util.dll">
+      <publishTime>10/14/2016 02:12:46</publishTime>
+    </File>
+    <File Include="bin/IKVM.OpenJDK.XML.API.dll">
+      <publishTime>10/14/2016 02:12:46</publishTime>
+    </File>
+    <File Include="bin/IKVM.OpenJDK.XML.Bind.dll">
+      <publishTime>10/14/2016 02:12:46</publishTime>
+    </File>
+    <File Include="bin/IKVM.OpenJDK.XML.Crypto.dll">
+      <publishTime>10/14/2016 02:12:46</publishTime>
+    </File>
+    <File Include="bin/IKVM.OpenJDK.XML.Parse.dll">
+      <publishTime>10/14/2016 02:12:46</publishTime>
+    </File>
+    <File Include="bin/IKVM.OpenJDK.XML.Transform.dll">
+      <publishTime>10/14/2016 02:12:46</publishTime>
+    </File>
+    <File Include="bin/IKVM.OpenJDK.XML.WebServices.dll">
+      <publishTime>10/14/2016 02:12:46</publishTime>
+    </File>
+    <File Include="bin/IKVM.OpenJDK.XML.XPath.dll">
+      <publishTime>10/14/2016 02:12:46</publishTime>
+    </File>
+    <File Include="bin/IKVM.Reflection.dll">
+      <publishTime>10/14/2016 02:12:46</publishTime>
+    </File>
+    <File Include="bin/IKVM.Runtime.dll">
+      <publishTime>10/14/2016 02:12:46</publishTime>
+    </File>
+    <File Include="bin/IKVM.Runtime.JNI.dll">
+      <publishTime>10/14/2016 02:12:46</publishTime>
+    </File>
+    <File Include="bin/MarklogicXcc.dll">
+      <publishTime>10/14/2016 02:12:46</publishTime>
+    </File>
+    <File Include="bin/MlTester.dll">
+      <publishTime>11/29/2016 15:04:27</publishTime>
+    </File>
+    <File Include="bin/MlTester.pdb">
+      <publishTime>11/29/2016 15:04:24</publishTime>
+    </File>
+    <File Include="bin/xcccore.dll">
+      <publishTime>10/14/2016 02:12:46</publishTime>
+    </File>
+    <File Include="mltester.PublishSettings">
+      <publishTime>11/29/2016 00:37:34</publishTime>
+    </File>
+    <File Include="MLTestPage.aspx">
+      <publishTime>01/08/2015 23:33:36</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>11/29/2016 15:04:31</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

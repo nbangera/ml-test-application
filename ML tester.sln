@@ -1,0 +1,54 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MlTester", "MlTester\MlTester.csproj", "{4A59E19C-6DD0-4670-8519-11E18072E987}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "dll", "dll", "{D1B7B3EC-87C2-4C2A-9D98-46FF5F7920B1}"
+	ProjectSection(SolutionItems) = preProject
+		dll\IKVM.AWT.WinForms.dll = dll\IKVM.AWT.WinForms.dll
+		dll\IKVM.OpenJDK.Beans.dll = dll\IKVM.OpenJDK.Beans.dll
+		dll\IKVM.OpenJDK.Charsets.dll = dll\IKVM.OpenJDK.Charsets.dll
+		dll\IKVM.OpenJDK.Corba.dll = dll\IKVM.OpenJDK.Corba.dll
+		dll\IKVM.OpenJDK.Core.dll = dll\IKVM.OpenJDK.Core.dll
+		dll\IKVM.OpenJDK.Jdbc.dll = dll\IKVM.OpenJDK.Jdbc.dll
+		dll\IKVM.OpenJDK.Management.dll = dll\IKVM.OpenJDK.Management.dll
+		dll\IKVM.OpenJDK.Media.dll = dll\IKVM.OpenJDK.Media.dll
+		dll\IKVM.OpenJDK.Misc.dll = dll\IKVM.OpenJDK.Misc.dll
+		dll\IKVM.OpenJDK.Naming.dll = dll\IKVM.OpenJDK.Naming.dll
+		dll\IKVM.OpenJDK.Remoting.dll = dll\IKVM.OpenJDK.Remoting.dll
+		dll\IKVM.OpenJDK.Security.dll = dll\IKVM.OpenJDK.Security.dll
+		dll\IKVM.OpenJDK.SwingAWT.dll = dll\IKVM.OpenJDK.SwingAWT.dll
+		dll\IKVM.OpenJDK.Text.dll = dll\IKVM.OpenJDK.Text.dll
+		dll\IKVM.OpenJDK.Tools.dll = dll\IKVM.OpenJDK.Tools.dll
+		dll\IKVM.OpenJDK.Util.dll = dll\IKVM.OpenJDK.Util.dll
+		dll\IKVM.OpenJDK.XML.API.dll = dll\IKVM.OpenJDK.XML.API.dll
+		dll\IKVM.OpenJDK.XML.Bind.dll = dll\IKVM.OpenJDK.XML.Bind.dll
+		dll\IKVM.OpenJDK.XML.Crypto.dll = dll\IKVM.OpenJDK.XML.Crypto.dll
+		dll\IKVM.OpenJDK.XML.Parse.dll = dll\IKVM.OpenJDK.XML.Parse.dll
+		dll\IKVM.OpenJDK.XML.Transform.dll = dll\IKVM.OpenJDK.XML.Transform.dll
+		dll\IKVM.OpenJDK.XML.WebServices.dll = dll\IKVM.OpenJDK.XML.WebServices.dll
+		dll\IKVM.OpenJDK.XML.XPath.dll = dll\IKVM.OpenJDK.XML.XPath.dll
+		dll\IKVM.Reflection.dll = dll\IKVM.Reflection.dll
+		dll\IKVM.Runtime.dll = dll\IKVM.Runtime.dll
+		dll\IKVM.Runtime.JNI.dll = dll\IKVM.Runtime.JNI.dll
+		dll\MarklogicXcc.dll = dll\MarklogicXcc.dll
+		dll\xcccore.dll = dll\xcccore.dll
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4A59E19C-6DD0-4670-8519-11E18072E987}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A59E19C-6DD0-4670-8519-11E18072E987}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A59E19C-6DD0-4670-8519-11E18072E987}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A59E19C-6DD0-4670-8519-11E18072E987}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
